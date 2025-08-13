@@ -33,22 +33,22 @@
 
 - **Tela inicial zerada, pode começar a digitar a tarefa** 
 
-![Busca de clima](captura%20de%20tela/Captura%20de%20tela1.png)
+![Inicio](capturas%20de%20tela/Captura%20de%20tela1.png)
 
 ---
 
 - **Tarefas adicionadas com ENTER** 
 
-![Resultado exibido](captura%20de%20tela/Captura%20de%20tela2.png)
+![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela2.png)
 
 ---
 
 - **Marque as que foram realizadas** 
 
-![Resultado exibido](captura%20de%20tela/Captura%20de%20tela3.png)
+![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela3.png)
 
 ---
 
 - **Apague e deixe somente as que ainda serão feitas** 
 
-![Resultado exibido](captura%20de%20tela/Captura%20de%20tela4.png)
+![Resultado exibido](capturas%20de%20tela/Captura%20de%20tela4.png)
